@@ -1,0 +1,7 @@
+../Core/Src/main.c:73:24:swap16	1
+../Core/Src/main.c:83:13:DrawChar_1bpp	7
+../Core/Src/main.c:136:6:DrawString	3
+../Core/Src/main.c:166:5:main	1
+../Core/Src/main.c:251:6:SystemClock_Config	9
+../Core/Src/main.c:316:13:MX_GPIO_Init	1
+../Core/Src/main.c:392:6:Error_Handler	1

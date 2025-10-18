@@ -1,0 +1,17 @@
+../Core/Lib/ili9341/ili9325.c:183:6:ili9325_Init	3
+../Core/Lib/ili9341/ili9325.c:252:6:ili9325_DisplayOn	1
+../Core/Lib/ili9341/ili9325.c:286:6:ili9325_DisplayOff	1
+../Core/Lib/ili9341/ili9325.c:312:10:ili9325_GetLcdPixelWidth	1
+../Core/Lib/ili9341/ili9325.c:327:10:ili9325_GetLcdPixelHeight	1
+../Core/Lib/ili9341/ili9325.c:342:10:ili9325_ReadID	2
+../Core/Lib/ili9341/ili9325.c:365:6:ili9325_SetCursor	1
+../Core/Lib/ili9341/ili9325.c:380:6:ili9325_WritePixel	1
+../Core/Lib/ili9341/ili9325.c:394:10:ili9325_ReadPixel	1
+../Core/Lib/ili9341/ili9325.c:414:6:ili9325_SetDisplayWindow	1
+../Core/Lib/ili9341/ili9325.c:442:6:ili9325_DrawHLine	1
+../Core/Lib/ili9341/ili9325.c:459:6:ili9325_DrawVLine	1
+../Core/Lib/ili9341/ili9325.c:479:6:ili9325_FillRect	1
+../Core/Lib/ili9341/ili9325.c:501:6:ili9325_DrawBitmap	1
+../Core/Lib/ili9341/ili9325.c:539:6:ili9325_DrawRGBImage	1
+../Core/Lib/ili9341/ili9325.c:564:6:ili9325_ReadRGBImage	3
+../Core/Lib/ili9341/ili9325.c:595:6:ili9325_Scroll	3

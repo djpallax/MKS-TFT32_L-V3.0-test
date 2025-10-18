@@ -1,0 +1,7 @@
+../Core/Src/main.c:73:24:swap16	16	static
+../Core/Src/main.c:83:13:DrawChar_1bpp	64	static
+../Core/Src/main.c:136:6:DrawString	40	static
+../Core/Src/main.c:166:5:main	24	static
+../Core/Src/main.c:251:6:SystemClock_Config	88	static
+../Core/Src/main.c:316:13:MX_GPIO_Init	48	static
+../Core/Src/main.c:392:6:Error_Handler	4	static,ignoring_inline_asm
